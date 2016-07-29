@@ -2,4 +2,5 @@
 ios rabbitmq manager
 
 ## app Store 
-[https://youtu.be/l8Biz5FyUyg]
+youtube [https://youtu.be/l8Biz5FyUyg]
+itunes address [https://itunes.apple.com/us/app/rabbitmq/id1112185253?mt=8]
